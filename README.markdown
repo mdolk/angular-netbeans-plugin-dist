@@ -5,12 +5,12 @@ Provides code completion and inline documentation for [Angular](http://angularjs
 
 Works by scanning project's javascript files looking for @ngdoc-enabled documentation.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/mdolk/angular-netbeans-plugin-dist/raw/master/screenshot.png)
 
 
 Download
 --------
-[com-github-mdolk-ng-netbeans.nbm (0.1)](https://raw.github.com/mdolk/angular-netbeans-plugin-dist/master/binaries/0.1/com-github-mdolk-ng-netbeans.nbm) 
+v0.1 - [com-github-mdolk-ng-netbeans.nbm](https://raw.github.com/mdolk/angular-netbeans-plugin-dist/master/binaries/0.1/com-github-mdolk-ng-netbeans.nbm) 
 
 
 Installing
