@@ -10,7 +10,7 @@ Works by scanning project's javascript files looking for @ngdoc-enabled document
 
 Download
 --------
-v0.1 - [com-github-mdolk-ng-netbeans.nbm](https://raw.github.com/mdolk/angular-netbeans-plugin-dist/master/binaries/0.1/com-github-mdolk-ng-netbeans.nbm) 
+v0.2 - [com-github-mdolk-ng-netbeans.nbm](https://raw.github.com/mdolk/angular-netbeans-plugin-dist/master/binaries/0.2/com-github-mdolk-ng-netbeans.nbm) 
 
 
 Installing
